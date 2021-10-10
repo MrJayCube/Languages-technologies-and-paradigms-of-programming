@@ -1,0 +1,13 @@
+from lttp3Joan import lab3
+db = lab3.readDatabase()
+db.parseFile('Practica3.Reads.fastq')
+db.query('A PERCENTAGE < 1.')
+db.query('A PERCENTAGE > 0.0')
+db.query('C PERCENTAGE < 1.')
+db.query('C PERCENTAGE > 0.0')
+db.query('G PERCENTAGE < 1.')
+db.query('G PERCENTAGE > 0.0')
+db.query('T PERCENTAGE < 1.')
+db.query('T PERCENTAGE > 0.0')
+db.query('LENGTH < 1.')
+db.query('LENGTH > 0.0')

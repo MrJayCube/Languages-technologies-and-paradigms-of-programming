@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=whale
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ whale\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ whale\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=g
+comment2.target=void\ ganar(java.lang.String)
+comment3.params=cang\ lang
+comment3.target=void\ moverse(Crab,\ lobster)
+numComments=4
